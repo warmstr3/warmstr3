@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Will Armstrong
-- 👀 I’m interested in IoT, DI, OpenFMB, Linux, Python libraries
-- 🌱 I’m currently learning OpenFMB
-- 💞️ I’m looking to collaborate on OpenFMB to DNP3.0 adapter
+- 👀 I’m interested in DERMS, IoT, DI, OpenFMB, Linux, Python libraries
+- 🌱 I’m currently learning IEEE2030.5
+- 💞️ I’m looking to collaborate on IEEE2030.5 DNP3.0 simulators
 
 <!---
 warmstr3/warmstr3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
